@@ -501,7 +501,7 @@ ul.sub-menu {
 
 .single-widget ul li a:hover{
 	background:none;
-	color:#FE980F;
+	color: #ff99ff;
 }
 
 
@@ -2558,5 +2558,11 @@ h2.title {
   opacity: 1;
   right: 0;
 }
-
-
+.end-links
+{
+  color: black;
+}
+.end-links:hover
+{
+  color: #ffb3ff;
+}
