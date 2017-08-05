@@ -1394,42 +1394,26 @@ h2.title {
 /*************************
 *******404 CSS******
 **************************/
-
-.logo-404 {
-  margin-top: 60px;
+.set-back {
+  background: url("http://www.ifreewallpaper.com/wallpapers_download/mobile/1280_720_wallpapers/20110904/B/B_404filenot_tava4yfq.jpg");
 }
 
-.content-404 h1 {
-  color: #363432;
-  font-family: 'Roboto', sans-serif;
-  font-size: 41px;
-  font-weight: 300;
+.content-404 {
+  color: red;
+  margin: 80px  80px;
 }
 
-.content-404 img {
- margin:0 auto;
+.go-home-404 {
+  display: inline-block;
+  background-color: #b3ffe6;
+  color: black;
+  box-shadow: 10px 10px 5px #888888;
+  margin-top: 350px;
+  margin-left: 1059px;
+  width: 150px;
+  height: 30px;
+  padding-top: 5px;
 }
-
-.content-404 p {
-  color: #363432;
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-}
-
-.content-404  h2 {
-  margin-top:50px;
-}
-
-.content-404 h2 a {
-  background: #FE980F;
-  color: #FFFFFF;
-  font-family: 'Roboto', sans-serif;
-  font-size: 44px;
-  font-weight: 300;
-  padding: 8px 40px;
-}
-
-
 /*************************
 *******login page CSS******
 **************************/
