@@ -1912,7 +1912,13 @@ h2.title {
   margin-left: 5%
 }
 
-
+.contact {
+  text-align: center;
+  letter-spacing: .5rem;
+}
+#contact-space{
+  height: 80px;
+}
 .order-message textarea {
   font-size: 12px;
   height: 335px;
